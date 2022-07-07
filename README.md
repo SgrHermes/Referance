@@ -1,6 +1,6 @@
-# Project Title
+# DATA SCIENCE
 
-Simple overview of use/purpose.
+Artificial Intelligence
 
 ## Description
 
