@@ -36,8 +36,7 @@ command to run if program contains helper info
 ## Authors
 
 Contributors names and contact info
-
-ex. SgrHemres
+ex. [SgrHermes]([https://twitter.com/dompizzie](https://github.com/SgrHermes/Referance/edit/main/README.md))
 
 ## Version History
 
