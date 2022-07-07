@@ -2,9 +2,10 @@
 Artificial Intelligence
 
 ### Deep Learning
-* [vit-pytorch](https://github.com/lucidrains/vit-pytorch) 
+* [Vit-Pytorch](https://github.com/lucidrains/vit-pytorch) 
+* [Awesome-Multimodality](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality) 
 
-### Reinforce Learning
+### Reinforcement Learning
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
