@@ -1,10 +1,7 @@
-# DATA SCIENCE
-
-## Description
+## Machine Learning
 
 Artificial Intelligence
 
-## Machine Learning
 
 ### Deep Learning
 
@@ -15,21 +12,6 @@ Artificial Intelligence
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
