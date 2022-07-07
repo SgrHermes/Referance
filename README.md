@@ -2,7 +2,6 @@
 
 Artificial Intelligence
 
-
 ### Deep Learning
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
@@ -12,6 +11,7 @@ Artificial Intelligence
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
+
 
 ## Authors
 
