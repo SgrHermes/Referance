@@ -1,5 +1,4 @@
 ## Machine Learning
-Artificial Intelligence
 
 ### Deep Learning
 * [Awesome-Multimodality](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality) 
@@ -12,11 +11,10 @@ Artificial Intelligence
 * [Lilian](https://lilianweng.github.io)
 
 ##
-
-## Authors
+### Authors
 Inspiration, code snippets, etc.
 * [SgrHermes](https://github.com/SgrHermes/Referance/edit/main/README.md)
 
-## License
+### License
 This project is licensed under the [SgrHermes] License - see the LICENSE.md file for details
 
