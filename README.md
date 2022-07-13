@@ -9,6 +9,7 @@
 
 ### Blog
 * [Lilian](https://lilianweng.github.io)
+* [Cocoa](https://cocoa-t.tistory.com/category/Machine%20Learning/Multimodal%20Learning)
 
 ##
 ### Authors
