@@ -10,6 +10,7 @@
 ### Blog
 * [Lilian](https://lilianweng.github.io)
 * [Cocoa](https://cocoa-t.tistory.com/category/Machine%20Learning/Multimodal%20Learning)
+* [Survey GM](https://hackmd.io/@JayZhan/HkJT0hHsw#A-Survey-on-Generative-Models)
 
 ##
 ### Authors
