@@ -2,9 +2,9 @@
 
 ### Deep Learning
 * [Awesome-Multimodality](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality) 
-* [Vit-Pytorch](https://github.com/lucidrains/vit-pytorch)
+* [Vit Pytorch](https://github.com/lucidrains/vit-pytorch)
 * [Loss Functions](https://paperswithcode.com/methods/category/loss-functions)
-* [TF-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+* [TF Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
 ### Reinforcement Learning
 * How/where to download your program
